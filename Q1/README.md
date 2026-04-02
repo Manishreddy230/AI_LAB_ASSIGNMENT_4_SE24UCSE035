@@ -20,3 +20,12 @@ No two adjacent states can have the same color.
 - Check constraints before assigning each color
 
 ### Output
+Australia Map Coloring:
+
+WA -> Red
+NT -> Green
+SA -> Blue
+Q -> Red
+NSW -> Green
+V -> Red
+T -> Red
